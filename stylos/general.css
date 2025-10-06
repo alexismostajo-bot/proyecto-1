@@ -1,0 +1,51 @@
+body {
+  background: #9d7272;
+  color: #4d4141;
+}
+
+header {
+  background: #1e1b1b;
+  text-align: center;
+  border-radius: 30px;
+}
+
+nav a {
+  margin: 1%;
+  border: solid white;
+}
+
+nav img {
+    width: 10%;
+  border-radius: 100px 50px;
+  border:solid white;
+}
+
+footer{
+  padding: 1%;
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+footer img{
+  width: 10%;
+  border-radius: 40%;
+  margin-left: 2%;
+}
+
+.seccion-contacto{                                                                      /* acaempieza contacto */
+background: #EEAECA;
+background: radial-gradient(circle, rgba(238, 174, 202, 1) 0%, rgba(148, 187, 233, 1) 100%);
+  padding: 10%;
+  width: 50%;
+  margin: auto;
+  border-radius: 80%;
+}
+
+.div-contacto{
+  display: flex;
+}
+.div-contacto img{
+  border-radius: 20%;
+  padding: 10%;
+  margin: auto;
+}                                                                                       /* aca termina contacto */
